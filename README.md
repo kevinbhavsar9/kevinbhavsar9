@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/kevinbhavsar9](https://github.com/kevinbhavsar9)
 
-- 📫 How to reach me **kevinbhavsar9@gmail.com**
+- 📫 How to reach me **kevinbhavsar567@gmail.com**
 
 - ⚡ Fun fact **I love Music and a professional Guitarist and Singer.**
 
